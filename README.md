@@ -104,7 +104,7 @@ The goal isn't just to complete tutorials—it's to understand how production-re
 | Module | Status |
 |---------|--------|
 | Spring Boot Basics | ✅ |
-| REST APIs | ⏳ |
+| REST APIs | ✅ |
 | JPA & Hibernate | ⏳ |
 | Security | ⏳ |
 | Docker | 🔜 |
